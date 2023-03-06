@@ -23,4 +23,4 @@ Market-1501, MSMT17
 
 # Acknowledgements
 
-Thanks to [ClusterContrast](https://github.com/alibaba/cluster-contrast-reid)  for the preliminary implementations
+Thanks to [ClusterContrast](https://github.com/alibaba/cluster-contrast-reid) and [SpCL](https://github.com/yxgeee/SpCL) for the opening source

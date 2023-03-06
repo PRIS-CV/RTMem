@@ -19,3 +19,8 @@ Market-1501, MSMT17
 
 <pre><code>CUDA_VISIBLE_DEVICES=0,1,2,3 python examples/RTMem_train_usl.py -b 256 -a resnet50 -d market1501 --iters 200 --eps 0.5 --num-instances 16
 </code></pre>
+
+
+# Acknowledgements
+
+Thanks to ClusterContrast[https://github.com/alibaba/cluster-contrast-reid] for the preliminary implementations
